@@ -41,7 +41,7 @@
 ## About Me
 * 🏫 Cairo, Egypt
 * Student at Faculty of Computers and Artificial Intelligence - Cairo University
-* I am interested in Software Engineering and cares about the quality of code.
+* I am interested in Software Engineering and i care about the quality of code.
 
 <h2 align="center"> My Github statistics 🚀 </h2>
 

@@ -43,7 +43,6 @@
 <h2 align="center"> My Github statistics 🚀 </h2>
 
 
-![Abdelrhman Reda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanReda17&theme=tokyonight&layout=compact)
+![Abdelrhman Reda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanReda17&theme=tokyonight&layout=compact&count_private=true)
 
-![Abdelrhman Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanReda17&show_icons=true&theme=tokyonight)
-
+![Abdelrhman Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanReda17&show_icons=true&theme=tokyonight&count_private=true)

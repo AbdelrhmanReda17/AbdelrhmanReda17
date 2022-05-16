@@ -8,7 +8,7 @@
 
 <h3 align="center">
 
-# How to reach me
+ ## How to reach me
 <a href="https://www.linkedin.com/in/abdelrhman-reda-092b14224/">
   <img align="left" alt="Abdelrhman Reda's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -50,5 +50,7 @@
 ![Abdelrhman Reda's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanReda17&theme=tokyonight&layout=compact&count_private=true)
   
 ![Abdelrhman Reda's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrhmanReda17&show_icons=true&theme=tokyonight&count_private=true)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=AbdelrhmanReda17&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
  </h2>

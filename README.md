@@ -77,10 +77,10 @@ Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahri
 <p align="center">
     
 <a href="https://twitter.com/abdelrhmanr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrhmanr17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelrhmanreda17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhmanreda17" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrhman-reda-092b14224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhmanreda17" height="30" width="40" /></a>
 <a href="https://fb.com/abdelrhmanreda17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhmanreda17" height="30" width="40" /></a>
 <a href="https://instagram.com/abdelrhman.reda17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdelrhman.reda17" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdelrhmanreda17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrhmanreda17" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/AbdelrhmanR.Muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AbdelrhmanR.Muhammed" height="30" width="40" /></a>
 <a href="mailto:abdelrhmanrmuhammed@gmail.com">
 <img align="center" alt="Abdelrhman Reda's Gmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
  

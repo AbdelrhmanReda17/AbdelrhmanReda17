@@ -33,7 +33,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-[![Jaideep's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrhmanReda17&theme=xcode)](https://github.com/Jaideep25-tech)
+[![AbdelrhmanReda17's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbdelrhmanReda17&theme=xcode)](https://github.com/AbdelrhmanReda17)
 
 <table>
 <tr>

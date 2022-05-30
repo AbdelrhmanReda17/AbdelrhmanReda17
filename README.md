@@ -84,7 +84,9 @@ Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahri
 <a href="https://codeforces.com/profile/AbdelrhmanR.Muhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="AbdelrhmanR.Muhammed" height="30" width="40" /></a>
 <a href="mailto:abdelrhmanrmuhammed@gmail.com">
 <img align="center" alt="Abdelrhman Reda's Gmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
- 
+  
+ [![Discord Presence](https://lanyard.cnrad.dev/api/908706349020508211)](https://discord.com/users/908706349020508211)
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 

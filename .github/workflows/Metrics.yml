@@ -14,4 +14,4 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{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}}
+          token: ${{ secrets.METRICS_TOKEN }}

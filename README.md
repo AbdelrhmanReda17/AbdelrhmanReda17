@@ -64,19 +64,6 @@
   
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-| No. | Program Name                                                               | Duration                     | Details                                                                                                          |
-| --- | -------------------------------------------------------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1.  | CLOWNS - PHOTOSHOP     | 24th May 2022- 27th May 2022 | <a href="https://github.com/AbdelrhmanReda17/CLOWNS-PHOTOSHOP/">Project details</a> |
-| 2.  | Text Editor Application | 25th April 2022 - 24th May 2022  | <a href="https://github.com/AbdelrhmanReda17/Text-Editor-Program/">Project details</a>      |
-| 3.  | login Application | 25th April 2022 - 24th May 2022  | <a href="https://github.com/AbdelrhmanReda17/Login-Application-Program/">Project details</a>      |
-| 4.  | PHOTOSHOP | ~  | <a href="https://github.com/AbdelrhmanReda17/PHOTOSHOP/">Project details</a>      |
-| 5.  | Cipher Techniques | ~  | <a href="https://github.com/AbdelrhmanReda17/Cipher-Techniques/">Project details</a>      |
-| 6.  | Tic Tac Toe | ~  | <a href="https://github.com/AbdelrhmanReda17/Tic-Tac-Toe/">Project details</a>      |
-| 7.  | SOS GAME | ~  | <a href="https://github.com/AbdelrhmanReda17/SOS-GUI-GAME/">Project details</a>      |
-| 8.  | One Line Memory Game | ~  | <a href="https://github.com/AbdelrhmanReda17/One-Line-Memory-Game/">Project details</a>      |
- </div>
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 

@@ -10,7 +10,7 @@
 >  Student at Faculty of Computers and Artificial Intelligence - Cairo University</br>
 >  I am interested in Software Engineering and i care about the quality of code.</br>
 >  <p align = "center"><img src="https://github.com/AbdelrhmanReda17/AbdelrhmanReda17/blob/main/code.gif"/> </br>
-> <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+>
 
 <table align="center">
 <tbody>
@@ -72,17 +72,6 @@ Let's connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahri
 <a href="mailto:abdelrhmanrmuhammed@gmail.com">
 <img align="center" alt="Abdelrhman Reda's Gmail" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
   
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-<div align="center">
-<a href="https://github.com/AbdelrhmanReda17">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerian&color=%237FE997&size=25&center=true&lines=Support+Me+On"></a>
-  
-  
-  <p><a href="https://www.buymeacoffee.com/AbdelrhmanR"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AbdelrhmanR" /></a></p><br><br>
   
 </div>
 

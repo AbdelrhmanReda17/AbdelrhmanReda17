@@ -16,11 +16,21 @@
 <tbody>
 <tr>
 <td style="text-align:center">Langs</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></td>
+<td style="text-align:center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-FFD43B.svg?style=for-the-badge&logo=c-sharp&logoColor=blue">
+<img src="https://img.shields.io/badge/HTML-00599C?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-FFD43B?&style=for-the-badge&logo=css3&logoColor=blue">
+<img src ="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=openjdk&logoColor=white">
+</td>
 </tr>
 <tr>
-<td style="text-align:center">Front-End</td>
-<td style="text-align:center"><img src="https://img.shields.io/badge/Qt-1572B6?style=for-the-badge&logo=qt&logoColor=Green"></td>
+<td style="text-align:center">Others</td>
+<td style="text-align:center"><img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
+<img  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+</td>
 </tr>
 </tbody>
 </table>
